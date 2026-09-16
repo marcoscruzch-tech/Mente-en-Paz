@@ -1,0 +1,8 @@
+{
+  "name": "Mente en Paz",
+  "description": "Aplica los 60 pensamientos de perdón de Un Curso de Milagros con video abstracto, música de cuencos tibetanos y síntesis de voz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
